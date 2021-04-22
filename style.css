@@ -1,0 +1,27 @@
+body {
+  position:relative;
+  margin:0px;
+  background-color: white;
+}
+
+#text{
+font-family: 'Dawning of a New Day', cursive;
+font-weight: 400;
+font-size: 13pt;
+color: #006d5b;
+line-height: 90%;
+text-align: left;
+}
+
+#canvas{
+  position: fixed;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vh;
+}
+
+.emoji {
+  font-size:100px;
+  position:absolute;
+}
